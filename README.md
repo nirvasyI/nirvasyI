@@ -1,8 +1,8 @@
-# about me ☀️
+# hello! ☼
 
-hello. i'm solstice!
+my name is solstice, nice to meet you!
 
-# biography ☀️
+# biography ☼
 
 25 · fictionkin · playing since 2020
 
@@ -10,16 +10,16 @@ infj · 2w1 · sanguine-melancholic
 
 i'm generally quite sociable, say hi!
 
-engaged to my beloved fiance ❤️ 06.11.24
+engaged to my beloved fiance ♡ 06.11.24
 
-# permissions ☀️
+# permissions ☼
 
-cuddles / hiding / touch ✔️
+cuddles / hiding / touch ✔
 
-whispers / interaction ✔️
+whispers / interaction ✔
 
-friend requests ✔️
+friend requests ✔
 
-romance / flirting ❌
+romance / flirting ✖
 
-roleplay ❌
+roleplay ✖
