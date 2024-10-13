@@ -14,11 +14,11 @@ engaged to my beloved fiance ♡ 06.11.24
 
 # permissions ☼
 
-cuddles / hiding / touch ✔
+cuddles / hiding / touch 🗸
 
-whispers / interaction ✔
+whispers / interaction 🗸
 
-friend requests ✔
+friend requests 🗸
 
 romance / flirting ✖
 
