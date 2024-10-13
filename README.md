@@ -20,6 +20,6 @@ whispers / interaction 🗸
 
 friend requests 🗸
 
-romance / flirting ✖
+romance / flirting x
 
-roleplay ✖
+roleplay x
