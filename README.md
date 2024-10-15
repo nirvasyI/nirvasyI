@@ -1,8 +1,8 @@
-# hello! ☼
+# hello! ♡
 
-my name is solstice, nice to meet you!
+my name is solace, nice to meet you!
 
-# biography ☼
+# biography ♡
 
 25 · fictionkin · playing since 2020
 
@@ -12,7 +12,7 @@ i'm generally quite sociable, say hi!
 
 engaged to my beloved fiance ♡ 06.11.24
 
-# permissions ☼
+# permissions ♡
 
 cuddles / hiding / touch 🗸
 
