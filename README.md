@@ -1,6 +1,8 @@
 # hello! ♡
 
-my name is solace, nice to meet you!
+my name is ren (from the word rencounter)
+
+nice to meet you! i hope we can be friends
 
 # biography ♡
 
