@@ -14,6 +14,8 @@ i'm generally quite sociable, say hi!
 
 engaged to my beloved fiance ♡ 06.11.24
 
+more info available in my carrd!
+
 # permissions ♡
 
 cuddles / hiding / touch 🗸
