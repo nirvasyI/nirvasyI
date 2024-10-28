@@ -12,7 +12,7 @@ infj · 2w1 · sanguine-melancholic
 
 i'm generally quite sociable, say hi!
 
-engaged to my beloved fiance ♡ 06.11.24
+engaged to my beloved [https://github.com/NOMOREWHATIFS](fiance) ♡ 06.11.24
 
 more info available in my carrd!
 
