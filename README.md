@@ -1,6 +1,6 @@
 # hello! ♡
 
-my name is ren (from the word rencounter)
+my name is ren or solace!
 
 nice to meet you! i hope we can be friends
 
