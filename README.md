@@ -67,3 +67,8 @@
 
 
 <p align="center"><img src="https://i.imgur.com/cgN2THn.png" width="350" title="hover text"></p>
+
+<p align="center"><img src="https://i.imgur.com/1RrJHC1.png" width="500" title="hover text"></p>
+<p align="center">
+  (all art by me! ^^)
+  </p>
