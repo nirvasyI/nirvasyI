@@ -2,7 +2,7 @@
     <img src="https://i.imgur.com/tELBRTw.png" width="300" title="hover text">
   <img src="https://i.imgur.com/Ri5DVUC.gif" width="120" title="hover text"> </p>
 <p align="center">
-  hello, my name is alec!
+  my name is alec!
 </p>
 <p align="center">
   nice to meet you! i hope we can be friends
