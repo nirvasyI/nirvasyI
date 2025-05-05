@@ -1,19 +1,15 @@
-  <p align="center"><img src="https://i.imgur.com/espYn3A.gif" width="120" title="hover text">
-    <img src="https://i.imgur.com/tELBRTw.png" width="300" title="hover text">
-  <img src="https://i.imgur.com/Ri5DVUC.gif" width="120" title="hover text"> </p>
+<p align="center"><img src="https://i.imgur.com/6uYOMy6.png" width="300" title="hover text"></p>
 <p align="center">
-  my name is alec!
+  the name's alec
 </p>
 <p align="center">
-  nice to meet you! i hope we can be friends
+  nice to meet you!
   </p>
 
-<p align="center"><img src="https://i.imgur.com/S4ow1LU.png" width="300" title="hover text"></p>
-
-<p align="center"><img src="https://i.imgur.com/NM9m9if.gif" width="150" title="hover text"></p>
+<p align="center"><img src="https://i.imgur.com/8AtrVMA.png" width="290" title="hover text"></p>
 
 <p align="center">
-  25 · fictionkin · playing since 2020
+  25 · fictionkin · yumeshipper
   </p>
 <p align="center">
   infj · 2w1 · sanguine-melancholic
@@ -28,14 +24,12 @@
   </p>
 
 <p align="center">
-  more info available in my carrd!
+  non-sharing with shirou, more info in carrds
   </p>
 
-<p align="center"><p align="center"><img src="https://i.imgur.com/6T8oxUx.gif" width="120" title="hover text">
-<img src="https://i.imgur.com/mlzqIkt.png" width="300" title="hover text">
-<img src="https://i.imgur.com/fkmF4l1.gif" width="120" title="hover text"></p>
+<p align="center"><p align="center"><img src="https://i.imgur.com/0Gi9hcB.png" width="300" title="hover text"></p>
 
-<p align="center"> i am <i>engaged</i> to my beloved fiance / queer platonic partner, RAE</p>
+<p align="center"> i am <i>engaged</i> to my beloved fiance RAE</p>
 
 <p align="center">together ♡ 5.19.23 | 06.11.24 ♡ engaged</p>
 
@@ -43,7 +37,7 @@
 
 <p align="center";><a href="https://github.com/NOMOREWHATIFS">check out their profile here!</a></p>
 
-<p align="center"><img src="https://i.imgur.com/pkvQP1T.png" width="300" title="hover text"></p>
+<p align="center"><img src="https://i.imgur.com/INIwkOP.png" width="300" title="hover text"></p>
 
 <p align="center">
   🗸 cuddles / hiding / touch 🗸
@@ -61,14 +55,15 @@
   ✗ roleplay ✗
   </p>
 
-  <p align="center">please just be respectful and kind to everypony ^^ more dni in carrd</p>
+  <p align="center">please just be respectful and kind to everypony ^^</p>
   
   <p align="center">i don't care if you're inspired by or copy my ponies! just be creative</p>
 
 
-<p align="center"><img src="https://i.imgur.com/cgN2THn.png" width="350" title="hover text"></p>
-
-<p align="center"><img src="https://i.imgur.com/1RrJHC1.png" width="500" title="hover text"></p>
+<p align="center"><img src="https://i.imgur.com/EZzDdex.png" width="350" title="hover text"></p>
 <p align="center">
-  (all art by me! ^^)
+  please don't hesitate to say hello!
+   </p>
+  <p align="center">
+  icon by cantobear_art
   </p>
