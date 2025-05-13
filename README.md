@@ -23,10 +23,6 @@
   i'm generally quite sociable, please say hi!
   </p>
 
-<p align="center">
-  non-sharing with shirou, more info in carrds
-  </p>
-
 <p align="center"><p align="center"><img src="https://i.imgur.com/0Gi9hcB.png" width="300" title="hover text"></p>
 
 <p align="center"> i am <i>engaged</i> to my beloved fiance RAE</p>
