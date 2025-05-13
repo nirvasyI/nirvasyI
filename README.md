@@ -64,6 +64,3 @@
 <p align="center">
   please don't hesitate to say hello!
    </p>
-  <p align="center">
-  icon by cantobear_art
-  </p>
