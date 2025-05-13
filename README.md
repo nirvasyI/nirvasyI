@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/6uYOMy6.png" width="300" title="hover text"></p>
 <p align="center">
-  the name's alec
+  the name's ain (or ainchase)
 </p>
 <p align="center">
   nice to meet you!
