@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/6uYOMy6.png" width="300" title="hover text"></p>
 <p align="center">
-  host name's alec
+  host name is alec
 </p>
 <p align="center">
   nice to meet you!
@@ -12,9 +12,11 @@
   25 · fictionkin · yumeshipper
   </p>
 <p align="center">
-  infj · 2w1 · sanguine-melancholic
+  infj · 2w1 · melancholic
   </p>
-
+<p align="center">
+  osdd system · ask for system carrd
+  </p>
 <p align="center">
   artist · game modder · writer
 </p>
