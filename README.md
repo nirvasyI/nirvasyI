@@ -5,7 +5,10 @@
 <p align="center">
   nice to meet you!
   </p>
-
+<p align="center">
+  doodle on my strawpage, i draw back if you leave your handle!
+  </p>
+  
 <p align="center"><img src="https://i.imgur.com/8AtrVMA.png" width="290" title="hover text"></p>
 
 <p align="center">
