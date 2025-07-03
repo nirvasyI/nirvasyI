@@ -36,7 +36,7 @@
 
 <p align="center">i'm sitting with them often, i love him very dearly!</p>
 
-<p align="center";><a href="https://github.com/fakerevolutionary">check out their profile here!</a></p>
+<p align="center";><a href="https://github.com/sacrificialwill">check out their profile here!</a></p>
 
 <p align="center"><img src="https://i.imgur.com/INIwkOP.png" width="300" title="hover text"></p>
 
