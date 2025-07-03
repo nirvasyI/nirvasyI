@@ -30,13 +30,13 @@
 
 <p align="center"><p align="center"><img src="https://i.imgur.com/0Gi9hcB.png" width="300" title="hover text"></p>
 
-<p align="center"> i am <i>engaged</i> to my beloved fiance RAE</p>
+<p align="center"> i am <i>married</i> to my beloved husband RAE</p>
 
-<p align="center">together ♡ 5.19.23 | 06.11.24 ♡ engaged</p>
+<p align="center">together ♡ 5.19.23 | 06.11.25 ♡ married</p>
 
 <p align="center">i'm sitting with them often, i love him very dearly!</p>
 
-<p align="center";><a href="https://github.com/thetwinning">check out their profile here!</a></p>
+<p align="center";><a href="https://github.com/fakerevolutionary">check out their profile here!</a></p>
 
 <p align="center"><img src="https://i.imgur.com/INIwkOP.png" width="300" title="hover text"></p>
 
