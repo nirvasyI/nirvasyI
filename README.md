@@ -55,6 +55,9 @@
 <p align="center">
   ✗ roleplay ✗
   </p>
+<p align="center">
+  ✗ supporter requests ✗
+  </p>
 
   <p align="center">please just be respectful and kind to everypony ^^</p>
   
