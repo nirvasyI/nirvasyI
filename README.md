@@ -1,12 +1,12 @@
 <p align="center"><img src="https://i.imgur.com/6uYOMy6.png" width="300" title="hover text"></p>
 <p align="center">
-  hello, my name is alec
+  my name is alec
 </p>
 <p align="center">
-  it's nice to meet you
+  usually under spawn with friends
   </p>
 <p align="center">
-  if you doodle on my strawpage, i'll draw back if you leave your handle
+  doodle for doodle on strawpage?
   </p>
   
 <p align="center"><img src="https://i.imgur.com/8AtrVMA.png" width="290" title="hover text"></p>
