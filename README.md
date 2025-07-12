@@ -1,12 +1,12 @@
 <p align="center"><img src="https://i.imgur.com/6uYOMy6.png" width="300" title="hover text"></p>
 <p align="center">
-  host name is alec
+  hello, my name is alec
 </p>
 <p align="center">
-  nice to meet you!
+  it's nice to meet you
   </p>
 <p align="center">
-  doodle on my strawpage, i draw back if you leave your handle!
+  if you doodle on my strawpage, i'll draw back if you leave your handle
   </p>
   
 <p align="center"><img src="https://i.imgur.com/8AtrVMA.png" width="290" title="hover text"></p>
@@ -15,7 +15,7 @@
   25 · fictionkin · yumeshipper
   </p>
 <p align="center">
-  infj · 2w1 · melancholic
+  infj · 2w1 · romani-canadian
   </p>
 <p align="center">
   osdd system · ask for system carrd
@@ -63,5 +63,5 @@
 
 <p align="center"><img src="https://i.imgur.com/EZzDdex.png" width="350" title="hover text"></p>
 <p align="center">
-  please don't hesitate to say hello!
+  please don't hesitate to say hello, i don't bite (hard)
    </p>
