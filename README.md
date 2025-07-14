@@ -18,9 +18,6 @@
   infj · 2w1 · romani-canadian
   </p>
 <p align="center">
-  osdd system · ask for system carrd
-  </p>
-<p align="center">
   artist · game modder · writer
 </p>
 
